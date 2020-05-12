@@ -11,9 +11,7 @@
 
 // TODO: https://github.com/enarx/enarx/issues/344
 #![deny(clippy::all)]
-#![allow(clippy::all)]
 #![deny(missing_docs)]
-#![allow(missing_docs)]
 
 mod show;
 
